@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gayatri Milind Mule</h1>
+<h1 align="center">Hi 👋, I'm Gayatri Abhishek Kulkarni</h1>
 <h3 align="center">I am Data and AI/ML enthusiast. I came from an background of automation. Right now exploring the field of Data Science as well as AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrimule&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrimule" /> </p>
